@@ -1,0 +1,17 @@
+{
+    "name": "lugui/zzcyii",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lugui",
+            "email": "lugui@zuzuche.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "TalkingRobot": "src/"
+        }
+    }
+}
